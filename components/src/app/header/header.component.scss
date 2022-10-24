@@ -1,0 +1,29 @@
+.container-desktop{
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    
+   
+    background-color: #006633;
+}
+.header-left{
+
+ margin-left:20px;
+
+ display:inline;
+}
+.header-left img{
+    padding-top: 10px ;
+    padding-bottom:5px;
+ margin-right: 10px;
+}
+.header-right{
+ display:inline;
+ float:right;
+ margin-right: 20px;
+}
+
+.header-right img{
+    margin-right: 5px;
+   }
